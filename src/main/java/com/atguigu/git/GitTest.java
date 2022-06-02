@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("第二次更新");
         System.out.println("Dev添加");
         System.out.println("master在第9行添加内容");
+        System.out.println("Dev在第9行添加内容");
     }
 }
