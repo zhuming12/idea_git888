@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("master在第9行添加内容");
         System.out.println("Dev在第9行添加内容");
         System.out.println("测试本地库推送到远程库");
+        System.out.println("测试本地库推送到远程库2");
     }
 }
